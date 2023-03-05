@@ -1,0 +1,16 @@
+{
+    "name": "ana/composer",
+    "description": "text",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alanbedrine",
+            "email": "alan.bedrine@gmail.com"
+        }
+    ],
+    "require": {}
+}
